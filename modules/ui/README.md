@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# Healthcare Kiosk - UI Module
 
-## Project info
+This is the **User Interface (UI)** module for the **Brainy Bunch Intel Unnati Healthcare Kiosk** project. It provides a clean and responsive frontend for users to interact with the kiosk services such as patient registration, report uploads, video-based awareness content, and more.
 
-**URL**: https://lovable.dev/projects/0a848464-ffff-471e-8a80-2037d1c44a1a
+## 📁 Folder Structure
 
-## How can I edit this code?
+```
+modules/ui/
+├── public/
+│   └── videos/
+│       └── <uploaded awareness and demo videos>
+├── src/
+│   └── components/
+│   └── pages/
+│   └── ...
+├── package.json
+├── vite.config.ts
+└── README.md
+```
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+* **React** (with Vite)
+* **TypeScript**
+* **Tailwind CSS**
+* **shadcn/ui**
+* **Node.js** (for development server)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0a848464-ffff-471e-8a80-2037d1c44a1a) and start prompting.
+## 🚀 How to Run Locally
 
-Changes made via Lovable will be committed automatically to this repo.
+1. Make sure you have [Node.js and npm](https://nodejs.org/en/download) installed.
 
-**Use your preferred IDE**
+2. Install dependencies:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+```bash
+npm install
+```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+3. Run the development server:
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+4. Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎥 Video Content
 
-**Use GitHub Codespaces**
+* Awareness and health education videos can be placed inside:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```
+modules/ui/public/videos/
+```
 
-## What technologies are used for this project?
+These can be accessed and rendered from within the UI components as needed.
 
-This project is built with:
+## 📦 Build for Production
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```bash
+npm run build
+```
 
-## How can I deploy this project?
+The production-ready build will be generated in the `dist/` folder.
 
-Simply open [Lovable](https://lovable.dev/projects/0a848464-ffff-471e-8a80-2037d1c44a1a) and click on Share -> Publish.
+## 📑 Notes
 
-## Can I connect a custom domain to my Lovable project?
+* This module integrates with other services like **Face Detection** and **Federated Learning** modules.
+* Deployment can be done through **Lovable.dev** or any preferred frontend hosting platform.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
