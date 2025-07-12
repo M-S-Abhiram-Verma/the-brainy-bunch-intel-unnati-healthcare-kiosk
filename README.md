@@ -1,5 +1,5 @@
 
-# 🏥 Brainy Bunch Intel Unnati Healthcare Kiosk
+# 🏥 The Brainy Bunch Intel Unnati Healthcare Kiosk
 
 A real-time, privacy-focused Healthcare Kiosk system powered by Federated Learning, AI-driven patient vitals prediction, and a responsive voice-enabled UI.  
 Developed as part of Intel Unnati Initiative.
