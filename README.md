@@ -89,7 +89,7 @@ the-brainy-bunch-intel-unnati-healthcare-kiosk/
 
 - Macharouthu Sathya Abhiram Verma
 - Mrigank Shekhar
-- Chinmayee Chintapati
+- Chinmayee Chintapanti
 - Shreya Kondur
 - Vemulapalli Shodhan
 
