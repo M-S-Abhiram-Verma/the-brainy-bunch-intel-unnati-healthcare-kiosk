@@ -1,8 +1,7 @@
-
 # 🏥 The Brainy Bunch Intel Unnati Healthcare Kiosk
 
 A real-time, privacy-focused Healthcare Kiosk system powered by Federated Learning, AI-driven patient vitals prediction, and a responsive voice-enabled UI.  
-Developed as part of Intel Unnati Initiative.
+Developed as part of the **Intel Unnati Innovation Challenge 2025** in collaboration with **GITAM Deemed to be University, Hyderabad**.
 
 ---
 
@@ -26,7 +25,7 @@ the-brainy-bunch-intel-unnati-healthcare-kiosk/
 
 ## 🎯 Key Features
 
-- **Voice-enabled UI** built with React, Vite, TailwindCSS
+- **Voice-enabled UI** built with React, Vite, Tailwind CSS
 - **Face Detection Module** for kiosk login
 - **Federated Learning System** (Flower + Streamlit + Supabase)
 - **PDF report generation** for patient vitals and predictions
@@ -44,7 +43,8 @@ the-brainy-bunch-intel-unnati-healthcare-kiosk/
 ### 🎙️ UI Voice Toggle Enabled  
 ![UI Voice Toggle](images/ui-voice-toggle.png)
 
-<!-- 🚀 Federated Learning Dashboard screenshot will be added soon -->
+### 📊 Federated Learning Dashboard  
+![Federated Learning Dashboard](images/federated-learning-dashboard.png)
 
 ---
 
@@ -84,6 +84,7 @@ the-brainy-bunch-intel-unnati-healthcare-kiosk/
 ## 👥 Team
 
 **Team Name:** The Brainy Bunch  
+**College:** GITAM Deemed to be University, Hyderabad  
 **Intel Unnati Innovation Challenge 2025**
 
 - Macharouthu Sathya Abhiram Verma
@@ -96,12 +97,7 @@ the-brainy-bunch-intel-unnati-healthcare-kiosk/
 
 ## 📌 Note
 
-- This project was developed as part of an academic-industry collaboration.
-- Federated Learning image preview to be added once finalized.
+This project was developed solely for academic and demonstration purposes under the Intel Unnati Innovation Challenge 2025.
 
 ---
-
-## 📣 License
-
-For educational and demo purposes only.
 
