@@ -196,6 +196,6 @@ Includes:
 This Federated Learning system was originally developed by Shodhan Vemulapalli.
 
 * GitHub: [@shodan2004](https://github.com/shodan2004)
-* Streamlit App: [Federated Kiosk](https://federated-kiosk.streamlit.app)
+* Streamlit App: [Federated Kiosk](https://federated-kiosk-final.streamlit.app/)
 
 It has been integrated and extended as part of the Brainy Bunch Intel Unnati Healthcare Kiosk project for the Intel Unnati Hackathon initiative.
